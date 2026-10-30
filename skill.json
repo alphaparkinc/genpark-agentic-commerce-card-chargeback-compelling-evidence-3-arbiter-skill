@@ -1,0 +1,16 @@
+{
+  "name": "genpark-agentic-commerce-card-chargeback-compelling-evidence-3-arbiter-skill",
+  "version": "1.0.0",
+  "title": "Visa CE 3.0 Cardholder Compelling Evidence Dispute Arbiter Skill",
+  "category": "Agentic Commerce (FinTech / Chargeback Mitigation)",
+  "description": "Evaluates Visa Compelling Evidence 3.0 (CE 3.0) qualified prior undisputed transactions, matches IP/device fingerprint/shipping parameters, and overturns first-party friendly fraud.",
+  "author": {
+    "name": "GenPark Ecosystem",
+    "url": "https://www.genpark.ai",
+    "linkedin": "https://www.linkedin.com/company/92955550"
+  },
+  "mcp_tools": [
+    "evaluate_visa_ce30_chargeback_remedy"
+  ],
+  "dependencies": []
+}
